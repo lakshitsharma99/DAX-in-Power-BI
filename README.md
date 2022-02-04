@@ -1,4 +1,6 @@
-# DAX-in-Power-BI
+# DAX-in-Power-BI 
+
+Project Details: <a href="https://lakshitsharma99.github.io/powerbi.html">Maven Market</a>
 
 In the Calendar table, add a column named "Weekend" - Equals "Y" for Saturdays or Sundays (otherwise "N")
 
