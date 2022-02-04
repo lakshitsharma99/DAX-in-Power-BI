@@ -62,4 +62,4 @@ Create a new measure to calculate "Profit Margin" by dividing total profit by to
 
 Create a new measure named "Unique Products" to calculate the number of unique product names in the Products table
 
-* Unique Products = DISTINCTCOUNT(Products[product_name]
+* Unique Products = DISTINCTCOUNT(Products[product_name])
